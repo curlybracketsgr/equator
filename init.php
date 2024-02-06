@@ -2,8 +2,6 @@
     $abspath_temp = explode('/',__FILE__);
     $abspath = $abspath_temp[0].'/'.$abspath_temp[1].'/'.$abspath_temp[2].'/'.$abspath_temp[3].'/';
     
-    
-	
 	define('ABSPATH1', $abspath);
 	
 	
